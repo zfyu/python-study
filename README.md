@@ -1,3 +1,3 @@
 #hello world
-##python2.7 study notes
+##python study notes
 my first git project
